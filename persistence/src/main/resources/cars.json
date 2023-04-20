@@ -1,0 +1,91 @@
+{
+  "cars": [
+    {
+      "id": 0,
+      "brand": "BMW",
+      "model": "330i",
+      "price": 190000,
+      "year": 2015,
+      "color": "BLACK",
+      "mileage": 1500,
+      "components": [
+        "ABS",
+        "ALLOY WHEELS"
+      ]
+    },
+    {
+      "id": 1,
+      "brand": "MAZDA",
+      "model": "6",
+      "price": 160000,
+      "year": 2014,
+      "color": "WHITE",
+      "mileage": 2500,
+      "components": [
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+    {
+      "id": 2,
+      "brand": "RENAULT",
+      "model": "MEGANE",
+      "price": 160000,
+      "year": 1999,
+      "color": "RED",
+      "mileage": 199999,
+      "components": [
+        "ESP",
+        "AIRBAG"
+      ]
+    },
+    {
+      "id": 3,
+      "brand": "FIAT",
+      "model": "PUNTO",
+      "price": 11000,
+      "year": 2010,
+      "color": "OTHER",
+      "mileage": 169000,
+      "components": [
+        "ABS",
+        "RADIO"
+      ]
+    },
+    {
+      "id": 4,
+      "brand": "AUDI",
+      "model": "A8",
+      "price": 250000,
+      "year": 2020,
+      "color": "BLACK",
+      "mileage": 60000,
+      "components": [
+        "ABS",
+        "ESP",
+        "ALLOY WHEELS",
+        "RADIO",
+        "AIR CONDITIONING",
+        "BLUETOOTH"
+      ]
+    },
+    {
+      "id": 5,
+      "brand": "MERCEDES",
+      "model": "S-KLASSE",
+      "price": 290000,
+      "year": 2021,
+      "color": "BLACK",
+      "mileage": 15000,
+      "components": [
+        "ABS",
+        "ESP",
+        "ALLOY WHEELS",
+        "RADIO",
+        "AIR CONDITIONING",
+        "BLUETOOTH",
+        "AIRBAG"
+      ]
+    }
+  ]
+}
